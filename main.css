@@ -1,16 +1,21 @@
-#title {
+#heading {
     text-align: center;
     color: navy;
 }
 
 #submit {
-    text-align: right;
+    color: black;
+    border: 2px solid blue;
 }
 
 #settings {
-    text-align: right;
+
+    color: black;
+    border: 2px solid blue;
 }
 
 #logout {
-    text-align: right;
+
+    color: black;
+    border: 2px solid blue;
 }
