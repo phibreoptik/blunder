@@ -3,19 +3,30 @@
     color: navy;
 }
 
+#post {
+    display: inline-block
+}
+
 #submit {
     color: black;
     border: 2px solid blue;
+    display: inline-block
 }
 
 #settings {
 
     color: black;
     border: 2px solid blue;
+    float:right;
 }
 
 #logout {
 
     color: black;
     border: 2px solid blue;
+    float:right;
+}
+
+body {
+    text-align: center;
 }

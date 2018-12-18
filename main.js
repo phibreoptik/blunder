@@ -1,4 +1,4 @@
 function submit () {
     var addPost = document.getElementById('submit');
-    alert('hello');
+    console.log(document.getElementById('post').value);
 }
